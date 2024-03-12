@@ -42,7 +42,7 @@ pip install gpt4all
 
 ### Available Models:
 
-- **mistral-7b-instruct-v0.1.Q4_0.gguf:** This model, version 0.1, offers advanced code generation capabilities using Mistral Instruct, providing high-quality code snippets for various programming tasks.
+- **mistral-7b-instruct-v0.1.Q4_0.gguf**
 
-- **codellama-7b-instruct.Q3_K_S.gguf:** This model harnesses LLama's advanced language understanding to provide context-aware code suggestions and completions, enhancing the coding experience for developers.
+- **codellama-7b-instruct.Q3_K_S.gguf**
 
