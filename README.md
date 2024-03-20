@@ -1,5 +1,7 @@
 # Python Co - Pilot
 
+<img width="1300" alt="dependancies" src="https://github.com/PraveenLiyanage/Python-Co-Pilot/assets/111709030/8dc6bbd9-f699-4573-ad01-985395f478e4">
+
 ### Description: 
 
 Python Co-Pilot is an innovative tool designed to enhance the coding experience for Python developers. Leveraging LLama's advanced language understanding and Mistral's intelligent code generation, Python Co-Pilot assists developers in writing high-quality code efficiently.
